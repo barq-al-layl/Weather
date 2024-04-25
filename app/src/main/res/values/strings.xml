@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!--  Bottom bar items  -->
+    <string name="forecast">Forecast</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+
+    <!--  Search screen  -->
+    <string name="saved_cities">Saved locations</string>
+    <string name="favourite_city">Favourite location</string>
+    <string name="accept">Accept</string>
+    <string name="network_error">Network Error</string>
+
+    <string name="no_location_found">No favourite location found\nPlease add your favourite location from the search screen</string>
+    <string name="add_location">Add location</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="chance_of_rain">Chance of rain</string>
+    <string name="today">Today</string>
+    <string name="days_7">7 Days</string>
+    <string name="use_current_location">Use current location</string>
+    <string name="location_service_is_disabled">Location required</string>
+    <string name="please_enable_location_service">Please enable location service to use this feature</string>
+    <string name="ok">OK</string>
+    <string name="temp">%1$d°</string>
+    <string name="speed">%1$d km/h</string>
+    <string name="percent">%1$d%%</string>
+
+
+</resources>
